@@ -1,7 +1,6 @@
 # recipe
 
-A new Flutter project.
-
+First flutter lab project for lab ISB26603 MOBILE UBIQUITIYS COMPUTING
 ## Getting Started
 
 This project is a starting point for a Flutter application.
